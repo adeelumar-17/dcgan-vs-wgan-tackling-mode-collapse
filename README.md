@@ -3,9 +3,9 @@
 A side-by-side PyTorch comparison of **Deep Convolutional GAN (DCGAN)** and **Wasserstein GAN with Gradient Penalty (WGAN-GP)** on the task of anime face generation, demonstrating how WGAN-GP addresses the **mode collapse** problem inherent in standard GAN training.
 
 <img width="1461" height="295" alt="image" src="https://github.com/user-attachments/assets/c2da908b-ebae-4cc0-b3ad-432b49481424" />
-### DC-GAN
+## DC-GAN
 <img width="1467" height="220" alt="image" src="https://github.com/user-attachments/assets/01a325c5-6386-47a7-88df-d9513f0b02b3" />
-### WGAN
+## WGAN
 <img width="1461" height="219" alt="image" src="https://github.com/user-attachments/assets/852d1cbb-ddf2-4b87-a79d-e5703fe55963" />
 
 
